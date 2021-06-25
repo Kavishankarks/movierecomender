@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import requests
 
 st.title("   \t\tMOVIES RECOMENDER")
-st.markdown("created by Kavishankar K S"
+st.markdown("created by Kavishankar K S")
 #st.write("DATA SET")
 #df=pd.read_csv('movies_metadata.csv')
 
@@ -57,12 +57,12 @@ st.markdown("created by Kavishankar K S"
 #saving processed and using this for next time
 #gen_df.to_csv('Movies_processed.csv',index=False)
 @st.cache
-def load_date():
+def load_data():
 	pgen=pd.read_csv('Movies_processed.csv')
 	return pgen
 	#pgen.head()
 
-pgen=load_date()
+pgen=load_data()
 year=[]
 for i in range(1990,2021):
    	year.append(i)
