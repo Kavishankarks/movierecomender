@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import requests
 
 st.title("   \t\tMOVIES RECOMENDER")
-
+st.markdown("created by Kavishankar K S"
 #st.write("DATA SET")
 #df=pd.read_csv('movies_metadata.csv')
 
