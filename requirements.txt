@@ -1,0 +1,6 @@
+streamlit==0.83.0
+numpy==1.21.0
+google==3.0.0
+pandas==1.2.5
+requests==2.25.1
+beautifulsoup4==4.9.3
