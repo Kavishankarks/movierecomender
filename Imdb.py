@@ -6,7 +6,7 @@ from googlesearch import search
 from bs4 import BeautifulSoup
 import requests
 <meta name="msvalidate.01" content="44D2EB88332553150EA1EC82D953964A" />
-st.title("   \t\tMOVIES RECOMENDER")
+st.title("   \t\tMOVIES RECOMENDER(KBD)")
 st.markdown("created by Kavishankar K S")
 #st.write("DATA SET")
 #df=pd.read_csv('movies_metadata.csv')
