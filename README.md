@@ -13,3 +13,8 @@ R is the mean rating of the movie
 
 C is the mean rating of all the movies in the dataset
 
+Link for web app- https://imdbmovierecomendation.herokuapp.com/
+
+App insights.
+![image](https://user-images.githubusercontent.com/57652470/123532873-a1537200-d72e-11eb-822f-ac2a6811374d.png)
+
