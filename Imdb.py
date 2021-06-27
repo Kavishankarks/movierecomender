@@ -5,7 +5,7 @@ from ast import literal_eval
 from googlesearch import search
 from bs4 import BeautifulSoup
 import requests
-
+<meta name="msvalidate.01" content="44D2EB88332553150EA1EC82D953964A" />
 st.title("   \t\tMOVIES RECOMENDER")
 st.markdown("created by Kavishankar K S")
 #st.write("DATA SET")
